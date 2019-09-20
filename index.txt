@@ -1,0 +1,21 @@
+﻿<html>
+<head> <title> การจัดหน้าเว็บเพจด้วยตาราง</title> </head>
+<body>
+<table width="1250" border="1" bordercolor="gray" cellspacing="0" cellpadding="0">
+  <tr><td height="150" colspan="2" valign="top"> <img src="1.gif"></td></tr>
+  <tr><td width="150" height="400" valign="top">
+    <table width="150" border="1" >
+        <tr><td width="150" bgcolor="pink">หลวงพ่อโต</td></tr>
+        <tr><td width="150" bgcolor="pink">ขนมบ้าบิ่น</td></tr>        
+      </table>
+</td>
+    <td width="1100" height="400"valign="top"> <img src="2.gif"> </td>
+  </tr>
+  <tr>
+    <td height="90" colspan="2" align="center" bgcolor="#ff7100">จัดทำโดย นางสาวณัฎฐกมล ทองสุข<br />
+     E-mail : 24344@tharua.ac.th <br />
+   </td>
+ </tr>
+</table>
+</body>
+</html>
